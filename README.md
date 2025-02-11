@@ -4,12 +4,12 @@
 </div>
 
 <h4 align:"center">Programming languages</h4>
-<p align:"left"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="40" height="40"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="40" height="40"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="40" height="40"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40" height="40"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JS" width="40" height="40">
+<p align:"left"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="40" height="40"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="40" height="40"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="40" height="40"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40" height="40"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JS" width="40" height="40">
 
-<h4 align:"center">Softwares and Frameworks</h4>
-<p align:"left"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="40" height="40"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio" width="40" height="40"> <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vue.js" width="40" height="40"> <img src="https://cdn.worldvectorlogo.com/logos/godot-logo.svg" alt="Godot" width="50" height="50"></p>
+<h4 align:"center">Softwares, Frameworks, and hardware</h4>
+<p align:"left"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="40" height="40"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio" width="40" height="40"> <img src="https://cdn.worldvectorlogo.com/logos/godot-logo.svg" alt="Godot" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vue.js" width="40" height="40">  <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"> </p>
   
-- Fun facts:
+- Fun facts about me:
   - I focus too much on useless brackets of code, but I make them ✨ pretty ✨
   - I like studying how algorithm works (no, I wasn't bullied at school)
   - CSS is sh**
