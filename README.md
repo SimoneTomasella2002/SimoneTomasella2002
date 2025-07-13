@@ -11,8 +11,6 @@
 <h4 align:"center">Softwares, Frameworks, and hardware</h4>
 <p align:"left"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="40" height="40"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio" width="40" height="40"> <img src="https://cdn.worldvectorlogo.com/logos/godot-logo.svg" alt="Godot" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vue.js" width="40" height="40">  <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"> </p>
 
-</br>
-
 <h4 align:"center">Leetcode status</h4>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Simo64)
