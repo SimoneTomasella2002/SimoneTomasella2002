@@ -14,6 +14,7 @@
 </br>
 
 <h4 align:"center">Leetcode status</h4>
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Simo64)
 
 - Fun facts about me:
